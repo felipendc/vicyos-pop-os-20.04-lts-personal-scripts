@@ -9,7 +9,7 @@ current_user_name="vicyos"
 
 sudo flatpak install -y FLATPAK/com.discordapp.Discord.flatpakref
 sudo flatpak install -y FLATPAK/net.codeindustry.MasterPDFEditor.flatpakref
-sudo flatpak install -y FLATPAK/org.clementine_player.Clementine.flatpakref
+#sudo flatpak install -y FLATPAK/org.clementine_player.Clementine.flatpakref
 sudo flatpak install -y FLATPAK/org.gimp.GIMP.flatpakref
 sudo flatpak install -y FLATPAK/org.kde.kdenlive.flatpakref
 sudo flatpak install -y FLATPAK/org.kde.krita.flatpakref
@@ -57,7 +57,7 @@ sudo apt install wireless-tools -y
 sudo apt install net-tools -y
 #sudo apt install simple-scan -y
 sudo apt install gufw -y
-
+sudo apt install clementine -y
 
 # Install any pkgs dependencies
 sudo apt install -f
