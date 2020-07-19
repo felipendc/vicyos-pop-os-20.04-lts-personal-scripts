@@ -1,3 +1,12 @@
+
+**HD not creating or deleting fies fix:** 
+- [x] ntfsfix and the path of the device. 
+
+Example: ntfsfix /dev/sda1 <br />
+I recommned you to use gnome-disks to identify your device. <br />
+Then, unmount the device and remount it. <br />
+That's it! <br />
+
 ![](https://i.imgur.com/JbuStNB.png)
 ![](https://i.imgur.com/Fcmdw5P.png)
 ![](https://i.imgur.com/KaF9mIg.png)
