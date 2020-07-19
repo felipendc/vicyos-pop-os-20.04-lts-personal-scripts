@@ -9,7 +9,7 @@ sudo apt install -f
 sudo apt autoremove
 
 # Pkgs for personal use:
-sudo apt install -y git snapd aria2 aptitude
+sudo apt install -y git snapd aria2 aptitude exfat-fuse exfat-utils
 
 # Reboot the computer
 sudo reboot
