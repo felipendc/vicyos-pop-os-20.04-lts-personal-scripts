@@ -120,17 +120,6 @@ sudo chmod +x upall/*.sh && sudo sh ./upall/setup-git-v1.sh
 cd vicyos-pop-os-screen-tearing-for-intel-fix && sudo chmod +x *.sh && sudo sh ./vicyos-install-linux-screen-tearing-fix.sh && cd ../
 
 
-
-# Install wingpanel-indicator-namarupa:
-#git clone https://github.com/felipendc/wingpanel-indicator-namarupa.git
-#cd wingpanel-indicator-namarupa
-#meson build --prefix=/usr && cd build
-#sudo meson setup --wipe
-#ninja
-#sudo ninja install 
-#cd ../../
-#sudo rm -rv wingpanel-indicator-namarupa
-
 # Install ukuu
 cd ukuu-teejee2008
 make clean
