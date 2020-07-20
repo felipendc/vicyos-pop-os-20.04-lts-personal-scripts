@@ -239,5 +239,5 @@ export PATH="$PATH:/home/vicyos/flutter/bin"
 #export CCACHE_EXEC="$(which ccache)"
 #ccache -M 150G
 
-
+neofetch
 
