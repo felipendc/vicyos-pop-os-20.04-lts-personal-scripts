@@ -6,6 +6,8 @@ Example: ntfsfix /dev/sda1 <br />
 I recommned you to use gnome-disks to identify your device. <br />
 Then, unmount the device and remount it. <br />
 That's it! <br />
+![](https://i.imgur.com/gezEkeI.png)
+![](https://i.imgur.com/qiFmcY4.png)
 
 ![](https://i.imgur.com/JbuStNB.png)
 ![](https://i.imgur.com/Fcmdw5P.png)
