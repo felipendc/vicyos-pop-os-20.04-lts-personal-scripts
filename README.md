@@ -12,5 +12,6 @@ That's it! <br />
 ![](https://i.imgur.com/KaF9mIg.png)
 ![](https://i.imgur.com/k1cw6xq.png)
 ![](https://i.imgur.com/gElFAuo.png)
-![](https://i.imgur.com/dL7L3dv.png)
+![](https://i.imgur.com/QDNSXql.png)
+![](https://i.imgur.com/tqm6RNL.png)
 ![](https://i.imgur.com/wAa7ULz.png)
