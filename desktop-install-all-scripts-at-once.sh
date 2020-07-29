@@ -123,14 +123,6 @@ sudo chmod +x upall/*.sh && sudo sh ./upall/setup-git-v1.sh
 #cd vicyos-pop-os-screen-tearing-for-intel-fix && sudo sh ./vicyos-install-linux-screen-tearing-#fix.sh && cd ../
 
 
-# Install ukuu
-cd ukuu-teejee2008
-make clean
-make all
-sudo make install
-make clean
-cd ../ 
-
 # LOOK FOR UPDATE FOR ALL THE PACKAGES:
 sudo apt update
 sudo apt upgrade -y
