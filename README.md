@@ -1,5 +1,5 @@
 
-**External hard disk not creating or deleting fies fix:** 
+**External hard disk not creating or deleting files fix:** 
 - [x] ntfsfix and the path of the device. 
 
 Example: ntfsfix /dev/sda1 <br />
